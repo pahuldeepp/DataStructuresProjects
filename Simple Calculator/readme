@@ -1,0 +1,15 @@
+Simple Calculator Using Stack - README
+
+This simple calculator is implemented using a stack data structure to evaluate arithmetic expressions. The calculator supports basic operations such as addition, subtraction, multiplication, and division. By utilizing the stack's Last-In-First-Out (LIFO) property, the calculator efficiently processes expressions in postfix (Reverse Polish) notation, ensuring accurate and fast computation.
+Features:
+
+    Supports basic arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
+    Handles integer and floating-point numbers.
+    Utilizes stack data structure for managing operands and operators, ensuring correct order of operations.
+
+How It Works:
+
+    The user inputs a mathematical expression in postfix notation.
+    Each operand is pushed onto the stack.
+    When an operator is encountered, the required number of operands are popped from the stack, the operation is performed, and the result is pushed back onto the stack.
+    The final result is the remaining item on the stack after the entire expression is processed.
