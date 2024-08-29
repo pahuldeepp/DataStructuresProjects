@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LinkedPositionalChainHashMap
+comment1.params=
+comment1.target=LinkedPositionalChainHashMap()
+comment2.params=cap
+comment2.target=LinkedPositionalChainHashMap(int)
+comment3.params=cap\ p
+comment3.target=LinkedPositionalChainHashMap(int,\ int)
+comment4.params=
+comment4.target=void\ createTable()
+comment5.params=
+comment5.target=java.lang.Iterable\ entrySet()
+comment6.params=h\ k
+comment6.target=java.lang.Object\ bucketGet(int,\ java.lang.Object)
+comment7.params=h\ k\ v
+comment7.target=java.lang.Object\ bucketPut(int,\ java.lang.Object,\ java.lang.Object)
+comment8.params=h\ k
+comment8.target=java.lang.Object\ bucketRemove(int,\ java.lang.Object)
+comment8.text=\r\n\ Removes\ the\ entry\ with\ the\ specified\ key\ from\ the\ bucket\ at\ index\ h.\r\n\r\n\ @param\ h\ The\ index\ of\ the\ bucket.\r\n\ @param\ k\ The\ key\ of\ the\ entry\ to\ be\ removed.\r\n\ @return\ The\ value\ associated\ with\ the\ removed\ key,\ or\ null\ if\ the\ key\ is\ not\ found.\r\n
+comment9.params=
+comment9.target=int\ getCollisions()
+numComments=10

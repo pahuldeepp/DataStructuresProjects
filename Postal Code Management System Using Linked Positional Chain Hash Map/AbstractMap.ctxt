@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AbstractMap
+comment0.text=\r\n\ An\ abstract\ implementation\ of\ the\ Map\ interface,\ providing\ common\r\n\ functionality.\r\n\ This\ class\ provides\ basic\ implementations\ for\ isEmpty()\ method\ and\ iterators\r\n\ for\ keys\ and\ values.\r\n\ /**\r\n\ Student\ id\ 3153555\r\n\ Pahuldeep\ Singh\r\n\r\n\ @param\ <K>\ The\ type\ of\ keys\ maintained\ by\ this\ map\r\n\ @param\ <V>\ The\ type\ of\ mapped\ values\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\r\n\ Returns\ {@code\ true}\ if\ this\ map\ contains\ no\ key-value\ mappings.\r\n\r\n\ @return\ {@code\ true}\ if\ this\ map\ is\ empty;\ {@code\ false}\ otherwise\r\n
+comment2.params=
+comment2.target=java.lang.Iterable\ keySet()
+comment2.text=\r\n\ Returns\ an\ iterable\ collection\ of\ keys\ in\ this\ map.\r\n\r\n\ @return\ An\ iterable\ collection\ of\ keys\ in\ this\ map\r\n
+comment3.params=
+comment3.target=java.lang.Iterable\ values()
+comment3.text=\r\n\ Returns\ an\ iterable\ collection\ of\ values\ in\ this\ map.\r\n\r\n\ @return\ An\ iterable\ collection\ of\ values\ in\ this\ map\r\n
+numComments=4

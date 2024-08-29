@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Position
+comment0.text=\r\n\ From\ Data\ Structures\ and\ Algorithms\ in\ Java,\ Sixth\ Edition,\ Goodrich\ et\ al.\r\n
+comment1.params=
+comment1.target=java.lang.Object\ getElement()
+comment1.text=\r\n\ Returns\ the\ element\ stored\ at\ this\ position.\r\n\r\n\ @return\ the\ stored\ element\r\n\ @throws\ IllegalStateException\ if\ position\ no\ longer\ valid\r\n
+numComments=2
